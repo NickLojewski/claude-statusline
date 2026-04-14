@@ -2,6 +2,12 @@
 
 Custom status line for Claude Code CLI.
 
+```
+ myproject  | ● ⎇ feature-branch | Opus 4.6 | 34% | 51% → 3:42 PM | $1.23
+```
+
+Shows: directory, git branch + dirty indicator, model, context usage, 5hr rate limit with reset time, and session cost.
+
 ## Install
 
 1. Copy the script:
